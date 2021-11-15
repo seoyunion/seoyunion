@@ -15,17 +15,17 @@
 - Human Computer Interaction(HCI)
 
 # Project Experiences
-- **Dam Water Level LSTM Prediction** https://github.com/seoynion/water-level-prediction  
+- __Dam Water Level LSTM Prediction__ https://github.com/seoynion/water-level-prediction  
 <br/>Predicted and Analyzed by using statistical methods and LSTM to predict water-level of the dam using multi-variable dataset
 - **Real-time news crawling** https://github.com/seoyunion/real-time-news-crawling
-<br/>
-- **Binalry Classification in Predicting Political Party** https://github.com/seoynion/P-SAT
-<br/>
+<br/>d
+- __Binalry Classification in Predicting Political Party__ https://github.com/seoynion/P-SAT
+<br/>d
 - **Predicting wheter-to-vote** https://github.com/seoyunion/2020-AML-vote-prediction
-<br/>
-- **Wine Filtering and Recommendation System** https://github.com/seoynion/wine-recommentation
-<br/>
+<br/>d
+- __Wine Filtering and Recommendation System__ https://github.com/seoynion/wine-recommentation
+<br/>d
 - **Visualization of Alchol Cunsumption around the globe** https://github.com/seoynion/2019-R-visualization
-<br/>
-- **Unbalanced Dataset Prediction** https://github.com/seoynion/P-SAT
+<br/>d
+- __Unbalanced Dataset Prediction__ https://github.com/seoynion/P-SAT
 <br/>Building prediction model using PCA, SMOTE, and various Prediction model such as Ligh GBM and Cross Validation.
