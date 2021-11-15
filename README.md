@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @seoyunion
-- 👀 I’m interested in data science, NLP and Applied AI
-- 🌱 I’m currently learning various ML/DL models and AI programming skills
-- 💞️ I’m looking to collaborate on NLP projects
-- 📫 Contact me through seoyun.kim@g.skku.edu
-
-<!---
-seoyunion/seoyunion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # 포트폴리오
 ### Personal Information
 - Name: Seoyun Kim
@@ -25,8 +15,17 @@ You can click the Preview link to take a look at your changes.
 - Human Computer Interaction(HCI)
 
 # Project Experiences
-- Dam Water Level Prediction https://github.com/seoynion/water-level-prediction
-Predicted and Analyzed by using statistical methods and LSTM to predict water-level of the dam using multi-variable dataset
-- Binalry Classification in Kaggle competition https://github.com/seoynion/water-level-prediction
-이게 뭐냐면 웅앵
-- 
+- **Dam Water Level LSTM Prediction** https://github.com/seoynion/water-level-prediction  
+<br/>Predicted and Analyzed by using statistical methods and LSTM to predict water-level of the dam using multi-variable dataset
+- **Real-time news crawling** https://github.com/seoyunion/real-time-news-crawling
+<br/>
+- **Binalry Classification in Predicting Political Party** https://github.com/seoynion/P-SAT
+<br/>
+- **Predicting wheter-to-vote** https://github.com/seoyunion/2020-AML-vote-prediction
+<br/>
+- **Wine Filtering and Recommendation System** https://github.com/seoynion/wine-recommentation
+<br/>
+- **Visualization of Alchol Cunsumption around the globe** https://github.com/seoynion/2019-R-visualization
+<br/>
+- **Unbalanced Dataset Prediction** https://github.com/seoynion/P-SAT
+<br/>Building prediction model using PCA, SMOTE, and various Prediction model such as Ligh GBM and Cross Validation.
