@@ -1,4 +1,4 @@
-# Portfolio
+# <div align=center> Portfolio </div>
 ### Personal Information
 - Name: Seoyun Kim
 - Email: seoyun.kim@g.skku.edu
