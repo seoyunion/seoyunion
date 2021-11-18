@@ -6,6 +6,9 @@
 
 ### Personal Statement
 저는 성균관대학교 데이터사이언스&인공지능학과를 복수전공 중인 학부 4학년 김서윤입니다. 현재 졸업을 앞두고 다양한 Data Analysis, NLP 등의 프로젝트를 진행 중입니다. 성균관대학교 통계/데이터분석 학회 P-Sat의 범주형자료분석팀 소속으로서 다양한 모델을 개발하고 범주형 데이터를 다뤄본 경험이 있습니다. 이 밖에도 Data Visualization, Prediction ML Model, LSTM과 같은 DL Model, NLP techniques, Data Preprocessing 등과 관련한 여러 프로젝트를 진행하였습니다.
+<br/>
+<br/>
+I am Seoyun Kim, a 4th year undergraduate student who is double majoring in Data Science & Artificial Intelligence at Sungkyunkwan University, Seoul, Korea. I am currently working on various projects such as Data Analysis and NLP ahead of graduation. As a member of the categorical data analysis team of P-Sat of the Statistical project team of Sungkyunkwan University, I have experience developing various models and handling categorical data. In addition, various projects related to Data Visualization, Prediction ML Model, DL Model such as LSTM, NLP techniques, and Data Preprocessing have been carried out.
 
 ## Research Interests
 - Data Analysis
