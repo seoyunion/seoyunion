@@ -19,23 +19,23 @@ I am Seoyun Kim, a 4th year undergraduate student who is double majoring in Data
 
 # Project Experiences
 - __Dam Water Level LSTM Prediction__ https://github.com/seoyunion/water-level-prediction
-<br/>Predicted and Analyzed by using statistical methods and LSTM to predict water-level of the dam using multi-variable dataset<br/>
+<br/>Predicted and Analyzed by using statistical methods and deep leaning RNN model - LSTM - to predict water-level of the dam using multi-variable dataset<br/>
 
 - **Real-time news crawling** https://github.com/seoyunion/real-time-news-crawling
-<br/>Built real-time news crawling engine including search keyword by using BeautifulSoup<br/>
+<br/>Built real-time news crawling engine including search keyword by using BeautifulSoup and made news data preprocessing module<br/>
 
 - __Binalry Classification in Predicting Political Party__ https://github.com/seoyunion/P-SAT
 <br/>During 'Theme Analysis' we used statistical metodes including t-test, homogeneous test and variable selection, EDA & feature engineering for Preprocessing
 <br/>Modeling using Ensemble model, XGBoost, Light GBM, and Random Forest in order to predict the 'Party' variable<br/>
 
 - **Predicting wheter-to-vote** https://github.com/seoyunion/2020-AML-vote-prediction
-<br/>Predicted wheter the person will vote or not using psychological survey dataset.<br/>
+<br/>Predicted wheter the person will vote or not using psychological survey dataset with XGBoost model<br/>
 
 - __Wine Filtering and Recommendation System__ https://github.com/seoyunion/wine-recommentation
-<br/>Built wine recommendation program usign QtPy and filtering methods<br/>
+<br/>Built wine recommendation program using QtPy and filtering methods<br/>
 
 - **Visualization of Alchol Cunsumption around the globe** https://github.com/seoyunion/2019-R-visualization
 <br/>Using R, visualized the correlance between happiness score, region, and alcohol consumption<br/>
 
 - __Unbalanced Dataset Prediction__ https://github.com/seoyunion/P-SAT
-<br/>Building prediction model using PCA, SMOTE, and various Prediction model such as Ligh GBM and Cross Validation and measured F-1 score in 'Kaggle competition'.<br/>
+<br/>Building prediction model for Inbalanced dataset using PCA, SMOTE, and various Prediction model such as Ligh GBM and Cross Validation and measured F-1 score in 'Kaggle competition'<br/>
