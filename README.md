@@ -18,6 +18,9 @@ I am Seoyun Kim, a 4th year undergraduate student who is double majoring in Data
 - Human Computer Interaction(HCI)
 
 # Project Experiences
+
+- __Data Science Team Manager__ at [Dacon](dacon.io)
+
 - __Dam Water Level LSTM Prediction__ https://github.com/seoyunion/water-level-prediction
 <br/>Predicted and Analyzed by using statistical methods and deep leaning RNN model - LSTM - to predict water-level of the dam using multi-variable dataset<br/>
 
