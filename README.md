@@ -19,7 +19,7 @@ As a member of the categorical data analysis team of P-Sat of the Statistical pr
 - Artificial Intelligence(AI)
 
 # Experiences
-- __M.Sc. in Data Experience Lab__ at SKKU (2022.02 ~ present)
+- __M.Sc. in Data Experience Lab__ at SKKU (2022.02. ~ present)
 
 - __A Member of P-Sat__ at SKKU (2020.08. ~ 2021.02.)
 
