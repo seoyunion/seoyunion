@@ -57,5 +57,5 @@ As a member of the categorical data analysis team of P-Sat of the Statistical pr
 - **Visualization of Alchol Cunsumption around the globe** [link](https://github.com/seoyunion/2019-R-visualization)
 <br/>Using R, visualized the correlance between happiness score, region, and alcohol consumption<br/>
 
-- __Unbalanced Dataset Prediction__ https://github.com/seoyunion/P-SAT
+- __Unbalanced Dataset Prediction__ [link](https://github.com/seoyunion/P-SAT)
 <br/>Building prediction model for Inbalanced dataset using PCA, SMOTE, and various Prediction model such as Ligh GBM and Cross Validation and measured F-1 score in 'Kaggle competition'<br/>
