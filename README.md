@@ -26,11 +26,13 @@ As a member of the categorical data analysis team of P-Sat of the Statistical pr
   - In Proceedings of the IEEE/CVF International Conference on Computer Vision
   - Built abstract art image dataset annotated with dimensional emotion labels, conducting deep learning model experiment for detecting dimensional emotion from art images
 
-- __Understanding mental health issues in different subdomains in social networking services: a focus on linguistic features__ (Journal of medical Internet research) 
-<br/>Examined and classified the linguistic characteristics of user posts on specific mental disorder subreddit channels (depression, anxiety, bipolar, borderline personality disorder, schizophrenia, autism, and mental health) on Reddit using sentiment analysis and unsupervised clustering methods<br/> [github](https://github.com/seoyunion/RedditMentalHealth)
+- __Understanding mental health issues in different subdomains in social networking services: computational analysis of text-based reddit posts__ [github](https://github.com/seoyunion/RedditMentalHealth)
+  - Journal of medical Internet research
+  - Examined and classified the linguistic characteristics of user posts on specific mental disorder subreddit channels (depression, anxiety, bipolar, borderline personality disorder, schizophrenia, autism, and mental health) on Reddit using sentiment analysis and unsupervised clustering methods
 
-- __Micro-Locational Fine Dust Prediction Utilizing Machine Learning and Deep Learning Models__ (Computer Systems Science and Engineering) 
-<br/>Predicted micro-locational fine dust concentration from air quality and meteorologucal time-series data using ML/DL models<br/> [github](https://github.com/seoyunion/FineDust)
+- __Micro-Locational Fine Dust Prediction Utilizing Machine Learning and Deep Learning Models__ [github](https://github.com/seoyunion/FineDust)
+  - Computer Systems Science and Engineering
+  - Predicted micro-locational fine dust concentration from air quality and meteorologucal time-series data using ML/DL models 
 
 # Experiences
 - __M.Sc. in Data Experience Lab__ at SKKU (2022.02. ~ present)
