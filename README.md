@@ -47,6 +47,7 @@ As a member of the categorical data analysis team of P-Sat of the Statistical pr
 - __Binalry Classification in Predicting Political Party__ [link](https://github.com/seoyunion/P-SAT)
 <br/>During 'Theme Analysis' we used statistical metodes including t-test, homogeneous test and variable selection, EDA & feature engineering for Preprocessing
 <br/>Modeling using Ensemble model, XGBoost, Light GBM, and Random Forest in order to predict the 'Party' variable<br/>
+<br/>Building prediction model for Inbalanced dataset using PCA, SMOTE, and various Prediction model such as Ligh GBM and Cross Validation and measured F-1 score in 'Kaggle competition'<br/>
 
 - **Predicting Wheter-to-vote** [link](https://github.com/seoyunion/2020-AML-vote-prediction)
 <br/>Predicted wheter the person will vote or not using psychological survey dataset with XGBoost model<br/>
@@ -54,8 +55,5 @@ As a member of the categorical data analysis team of P-Sat of the Statistical pr
 - __Wine Filtering and Recommendation System__ [link](https://github.com/seoyunion/wine-recommendation)
 <br/>Built wine recommendation program using QtPy and filtering methods<br/>
 
-- **Visualization of Alchol Cunsumption around the Globe** [link](https://github.com/seoyunion/2019-R-visualization)
+- __Visualization of Alchol Cunsumption around the Globe__ [link](https://github.com/seoyunion/2019-R-visualization)
 <br/>Using R, visualized the correlance between happiness score, region, and alcohol consumption<br/>
-
-- __Unbalanced Dataset Prediction__ [link](https://github.com/seoyunion/P-SAT)
-<br/>Building prediction model for Inbalanced dataset using PCA, SMOTE, and various Prediction model such as Ligh GBM and Cross Validation and measured F-1 score in 'Kaggle competition'<br/>
