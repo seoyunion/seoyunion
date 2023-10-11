@@ -22,14 +22,14 @@ As a member of the categorical data analysis team of P-Sat of the Statistical pr
 - Social&Affective Computing
 
 # Research/Publications
-- __D-ViSA: A Dataset for Detecting Visual Sentiment from Art Images__ (In Proceedings of the IEEE/CVF International Conference on Computer Vision) https://github.com/seoyunion/D-ViSA
-<br/>Built abstract art image dataset annotated with dimensional emotion labels, conducting deep learning model experiment for detecting dimensional emotion from art images<br/> [pdf](https://openaccess.thecvf.com/content/ICCV2023W/ASI/papers/Kim_D-ViSA_A_Dataset_for_Detecting_Visual_Sentiment_from_Art_Images_ICCVW_2023_paper.pdf)
+- __D-ViSA: A Dataset for Detecting Visual Sentiment from Art Images__ (In Proceedings of the IEEE/CVF International Conference on Computer Vision) 
+<br/>Built abstract art image dataset annotated with dimensional emotion labels, conducting deep learning model experiment for detecting dimensional emotion from art images<br/> [pdf](https://openaccess.thecvf.com/content/ICCV2023W/ASI/papers/Kim_D-ViSA_A_Dataset_for_Detecting_Visual_Sentiment_from_Art_Images_ICCVW_2023_paper.pdf) [github](https://github.com/seoyunion/D-ViSA)
 
-- __Understanding mental health issues in different subdomains in social networking services: a focus on linguistic features__ (Journal of medical Internet research) https://github.com/seoyunion/RedditMentalHealth
-<br/>Examined and classified the linguistic characteristics of user posts on specific mental disorder subreddit channels (depression, anxiety, bipolar, borderline personality disorder, schizophrenia, autism, and mental health) on Reddit using sentiment analysis and unsupervised clustering methods<br/>
+- __Understanding mental health issues in different subdomains in social networking services: a focus on linguistic features__ (Journal of medical Internet research) 
+<br/>Examined and classified the linguistic characteristics of user posts on specific mental disorder subreddit channels (depression, anxiety, bipolar, borderline personality disorder, schizophrenia, autism, and mental health) on Reddit using sentiment analysis and unsupervised clustering methods<br/> [github](https://github.com/seoyunion/RedditMentalHealth)
 
-- __Micro-Locational Fine Dust Prediction Utilizing Machine Learning and Deep Learning Models__ (Computer Systems Science and Engineering) https://github.com/seoyunion/FineDust
-<br/>Predicted micro-locational fine dust concentration from air quality and meteorologucal time-series data using ML/DL models<br/>
+- __Micro-Locational Fine Dust Prediction Utilizing Machine Learning and Deep Learning Models__ (Computer Systems Science and Engineering) 
+<br/>Predicted micro-locational fine dust concentration from air quality and meteorologucal time-series data using ML/DL models<br/> [github](https://github.com/seoyunion/FineDust)
 
 # Experiences
 - __M.Sc. in Data Experience Lab__ at SKKU (2022.02. ~ present)
@@ -38,23 +38,23 @@ As a member of the categorical data analysis team of P-Sat of the Statistical pr
 
 - __Data Science Team Manager__ at [Dacon](dacon.io) (2021.12. ~ 2022.02.)
 
-- __Dam Water Level LSTM Prediction__ https://github.com/seoyunion/water-level-prediction
+- __Dam Water Level LSTM Prediction__ [link](https://github.com/seoyunion/water-level-prediction)
 <br/>Predicted and Analyzed by using statistical methods and deep leaning RNN model - LSTM - to predict water-level of the dam using multi-variable dataset<br/>
 
-- **Real-time news crawling** https://github.com/seoyunion/real-time-news-crawling
+- **Real-time news crawling** [link](https://github.com/seoyunion/real-time-news-crawling)
 <br/>Built real-time news crawling engine including search keyword by using BeautifulSoup and made news data preprocessing module<br/>
 
-- __Binalry Classification in Predicting Political Party__ https://github.com/seoyunion/P-SAT
+- __Binalry Classification in Predicting Political Party__ [link](https://github.com/seoyunion/P-SAT)
 <br/>During 'Theme Analysis' we used statistical metodes including t-test, homogeneous test and variable selection, EDA & feature engineering for Preprocessing
 <br/>Modeling using Ensemble model, XGBoost, Light GBM, and Random Forest in order to predict the 'Party' variable<br/>
 
-- **Predicting wheter-to-vote** https://github.com/seoyunion/2020-AML-vote-prediction
+- **Predicting wheter-to-vote** [link](https://github.com/seoyunion/2020-AML-vote-prediction)
 <br/>Predicted wheter the person will vote or not using psychological survey dataset with XGBoost model<br/>
 
-- __Wine Filtering and Recommendation System__ https://github.com/seoyunion/wine-recommentation
+- __Wine Filtering and Recommendation System__ [link](https://github.com/seoyunion/wine-recommentation)
 <br/>Built wine recommendation program using QtPy and filtering methods<br/>
 
-- **Visualization of Alchol Cunsumption around the globe** https://github.com/seoyunion/2019-R-visualization
+- **Visualization of Alchol Cunsumption around the globe** [link](https://github.com/seoyunion/2019-R-visualization)
 <br/>Using R, visualized the correlance between happiness score, region, and alcohol consumption<br/>
 
 - __Unbalanced Dataset Prediction__ https://github.com/seoyunion/P-SAT
