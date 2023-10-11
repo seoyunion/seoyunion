@@ -1,4 +1,5 @@
 # <div align=center> Portfolio </div>
+# About
 ### Personal Information
 - Name: Seoyun Kim
 - Email: seoyun.kim@g.skku.edu
@@ -12,7 +13,7 @@ I am Seoyun Kim, a 2nd year graduate student who is double majored in Data Scien
 
 As a member of the categorical data analysis team of P-Sat of the Statistical project team of Sungkyunkwan University, I have experience developing various models and handling categorical data. In addition, various projects related to Data Visualization, Prediction ML Model, DL Model such as LSTM, NLP techniques, and Data Preprocessing have been carried out. I also participated in various data analysis/AI researches in DX Lab, including researches using image, text, video, and time series data.
 
-## Research Interests
+### Research Interests
 - Data Analysis
 - Computer Vision
 - Machine Learning and Deep Learning
