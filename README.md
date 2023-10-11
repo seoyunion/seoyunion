@@ -23,7 +23,7 @@ As a member of the categorical data analysis team of P-Sat of the Statistical pr
 
 # Research/Publications
 - __D-ViSA: A Dataset for Detecting Visual Sentiment from Art Images__ (In Proceedings of the IEEE/CVF International Conference on Computer Vision) https://github.com/seoyunion/D-ViSA
-<br/>Built abstract art image dataset annotated with dimensional emotion labels, conducting deep learning model experiment for detecting dimensional emotion from art images<br/>
+<br/>Built abstract art image dataset annotated with dimensional emotion labels, conducting deep learning model experiment for detecting dimensional emotion from art images<br/> [[pdf]](https://openaccess.thecvf.com/content/ICCV2023W/ASI/papers/Kim_D-ViSA_A_Dataset_for_Detecting_Visual_Sentiment_from_Art_Images_ICCVW_2023_paper.pdf)
 
 - __Understanding mental health issues in different subdomains in social networking services: a focus on linguistic features__ (Journal of medical Internet research) https://github.com/seoyunion/RedditMentalHealth
 <br/>Examined and classified the linguistic characteristics of user posts on specific mental disorder subreddit channels (depression, anxiety, bipolar, borderline personality disorder, schizophrenia, autism, and mental health) on Reddit using sentiment analysis and unsupervised clustering methods<br/>
