@@ -10,13 +10,25 @@
 <br/>
 I am Seoyun Kim, a 2nd year graduate student who is double majored in Data Science & Artificial Intelligence at Sungkyunkwan University, Seoul, Korea. I am currently I am a M.Sc. student in Data eXperience Lab at Sungkyunkwan University, advised by Eunil Park.
 
-As a member of the categorical data analysis team of P-Sat of the Statistical project team of Sungkyunkwan University, I have experience developing various models and handling categorical data. In addition, various projects related to Data Visualization, Prediction ML Model, DL Model such as LSTM, NLP techniques, and Data Preprocessing have been carried out.
+As a member of the categorical data analysis team of P-Sat of the Statistical project team of Sungkyunkwan University, I have experience developing various models and handling categorical data. In addition, various projects related to Data Visualization, Prediction ML Model, DL Model such as LSTM, NLP techniques, and Data Preprocessing have been carried out. I also participated in various data analysis/AI researches in DX Lab, including researches using image, text, video, and time series data.
 
 ## Research Interests
 - Data Analysis
-- Natural Language Processing(NLP)
+- Computer Vision
 - Machine Learning and Deep Learning
 - Artificial Intelligence(AI)
+- Multimodal Modeling
+- Social&Affective Computing
+
+# Research/Publications
+- __D-ViSA: A Dataset for Detecting Visual Sentiment from Art Images__ (In Proceedings of the IEEE/CVF International Conference on Computer Vision) https://github.com/seoyunion/D-ViSA
+<br/>Built abstract art image dataset annotated with dimensional emotion labels, conducting deep learning model experiment for detecting dimensional emotion from art images<br/>
+
+- __Understanding mental health issues in different subdomains in social networking services: a focus on linguistic features__ (Journal of medical Internet research) https://github.com/seoyunion/RedditMentalHealth
+<br/>Examined and classified the linguistic characteristics of user posts on specific mental disorder subreddit channels (depression, anxiety, bipolar, borderline personality disorder, schizophrenia, autism, and mental health) on Reddit using sentiment analysis and unsupervised clustering methods<br/>
+
+- __Micro-Locational Fine Dust Prediction Utilizing Machine Learning and Deep Learning Models__ (Computer Systems Science and Engineering) https://github.com/seoyunion/FineDust
+<br/>Predicted micro-locational fine dust concentration from air quality and meteorologucal time-series data using ML/DL models<br/>
 
 # Experiences
 - __M.Sc. in Data Experience Lab__ at SKKU (2022.02. ~ present)
