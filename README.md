@@ -3,12 +3,10 @@
 ### Personal Information
 - Name: Seoyun Kim
 - Email: seoyun.kim@g.skku.edu
-- Interests: ML, DL, Applied AI, HCML
+- Interests: ML, DL, Applied AI
 
 ### Personal Statement
-저는 성균관대학교 데이터사이언스&인공지능학과를 복수전공하고 현재 자교 Data eXperience Lab에서 석사 연계생으로 연구하고 있는 김서윤입니다. 학부 시절 다양한 Data Analysis, ML/DL 프로젝트를 진행하였습니다. 성균관대학교 통계/데이터분석 학회 P-Sat의 범주형자료분석팀 소속으로서 다양한 모델을 개발하고 범주형 데이터를 다뤄본 경험이 있습니다. 이 밖에도 Data Visualization, Prediction, ML Model, DL Model, NLP techniques, Data Preprocessing 등과 관련한 여러 프로젝트를 진행하였습니다.
-<br/>
-<br/>
+
 I am Seoyun Kim, a 2nd year graduate student who is double majored in Data Science & Artificial Intelligence at Sungkyunkwan University, Seoul, Korea. I am currently I am a M.Sc. student in Data eXperience Lab at Sungkyunkwan University, advised by Eunil Park.
 
 As a member of the categorical data analysis team of P-Sat of the Statistical project team of Sungkyunkwan University, I have experience developing various models and handling categorical data. In addition, various projects related to Data Visualization, Prediction ML Model, DL Model such as LSTM, NLP techniques, and Data Preprocessing have been carried out. I also participated in various data analysis/AI researches in DX Lab, including researches using image, text, video, and time series data.
